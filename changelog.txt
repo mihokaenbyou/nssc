@@ -1,0 +1,8 @@
+Server Status Checker Changelog
+
+r1
+- SSC's re-starting
+
+r2
+- Complete rewriting of SSC, by using PDO in particular.
+- Added a script which determines the time of loading of SSC.

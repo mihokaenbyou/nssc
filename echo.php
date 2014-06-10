@@ -1,0 +1,1 @@
+<?php echo "&#92;&yuml;&#92;&yuml;&#92;&yuml;&#92;&yuml;getservers full&#92;x00"; ?>
